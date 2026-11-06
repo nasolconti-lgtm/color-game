@@ -9,7 +9,8 @@ let juegoTerminado = false;
 
 let colorDisplay = document.querySelector("#colorDisplay");
 let mensaje = document.querySelector("#message");
-let titulo = document.querySelector("#h1");
+let titulo = document.querySelector("h1");
+
 
 let botonNuevosColores = document.querySelector("#reset");
 
